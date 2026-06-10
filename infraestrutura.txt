@@ -1,4 +1,4 @@
 Servidor: Web01
 Sistema Operacional: Linux
-Memória: 4GB
+Memória: 8GB
 Banco de Dados: MySQL
